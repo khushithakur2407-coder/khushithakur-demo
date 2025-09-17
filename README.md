@@ -1,2 +1,3 @@
 # khushithakur-demo
-this is my first github project 
+this is my first github repositery .
+Author- Khushi Thakur .
